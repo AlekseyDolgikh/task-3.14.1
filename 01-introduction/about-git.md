@@ -13,7 +13,7 @@ Git - это распределённая система управления в
 ## Полезные ресурсы:
 
 - [Официальный сайт Git](https://git-scm.com/)
-- [Pro Git (книга)](https://git-scm.com/book/en/v2)
+- [Pro Git (книга)](https://git-scm.com/book/ru/v2)
 
 <div style="text-align: right;">
 
